@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f444e59aac939344ca60d91e21d8fd1c, type: 3}
+  m_Name: Shotgun
+  m_EditorClassIdentifier: 
+  itemName: Regular Shotgun
+  description: Just a regular shotgun, duh...
+  art: {fileID: 21300000, guid: 122bf017f01d2ca438e8792f27a445b0, type: 3}
+  damage: 4
+  shotCooldown: 0.5
+  reloadTime: 1.5
+  knockback: 3
+  recoil: 4
+  maxAmmo: 5
